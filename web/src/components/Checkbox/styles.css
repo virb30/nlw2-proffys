@@ -1,0 +1,16 @@
+.checkbox-block {
+  font-size: 1.4rem;
+  position: relative;
+
+  display: flex;
+  align-items: center;
+
+  color: var(--color-text-complement);
+  font-size: 1.4rem;
+}
+
+.checkbox-block input {
+  width: 1.8rem;
+  height: 1.8rem;
+  margin-right: 1.6rem;
+}
